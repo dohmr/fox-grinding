@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fox-grinding/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/fox-grinding/static/js/main.0485758b.chunk.js",
-    "main.js.map": "/fox-grinding/static/js/main.0485758b.chunk.js.map",
+    "main.js": "/fox-grinding/static/js/main.c36807ed.chunk.js",
+    "main.js.map": "/fox-grinding/static/js/main.c36807ed.chunk.js.map",
     "runtime-main.js": "/fox-grinding/static/js/runtime-main.b6376211.js",
     "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.b6376211.js.map",
     "static/js/2.f123934b.chunk.js": "/fox-grinding/static/js/2.f123934b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b6376211.js",
     "static/js/2.f123934b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0485758b.chunk.js"
+    "static/js/main.c36807ed.chunk.js"
   ]
 }
