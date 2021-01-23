@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fox-grinding/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fox-grinding/static/js/main.0485758b.chunk.js",
+    "main.js.map": "/fox-grinding/static/js/main.0485758b.chunk.js.map",
+    "runtime-main.js": "/fox-grinding/static/js/runtime-main.b6376211.js",
+    "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.b6376211.js.map",
+    "static/js/2.f123934b.chunk.js": "/fox-grinding/static/js/2.f123934b.chunk.js",
+    "static/js/2.f123934b.chunk.js.map": "/fox-grinding/static/js/2.f123934b.chunk.js.map",
+    "static/js/3.da53ac72.chunk.js": "/fox-grinding/static/js/3.da53ac72.chunk.js",
+    "static/js/3.da53ac72.chunk.js.map": "/fox-grinding/static/js/3.da53ac72.chunk.js.map",
+    "index.html": "/fox-grinding/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fox-grinding/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f123934b.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.f123934b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fox-grinding/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6376211.js",
+    "static/js/2.f123934b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0485758b.chunk.js"
+  ]
+}
