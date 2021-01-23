@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/fox-grinding/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/fox-grinding/static/js/main.c36807ed.chunk.js",
-    "main.js.map": "/fox-grinding/static/js/main.c36807ed.chunk.js.map",
-    "runtime-main.js": "/fox-grinding/static/js/runtime-main.b6376211.js",
-    "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.b6376211.js.map",
-    "static/js/2.f123934b.chunk.js": "/fox-grinding/static/js/2.f123934b.chunk.js",
-    "static/js/2.f123934b.chunk.js.map": "/fox-grinding/static/js/2.f123934b.chunk.js.map",
-    "static/js/3.da53ac72.chunk.js": "/fox-grinding/static/js/3.da53ac72.chunk.js",
-    "static/js/3.da53ac72.chunk.js.map": "/fox-grinding/static/js/3.da53ac72.chunk.js.map",
+    "main.css": "/fox-grinding/static/css/main.59a8b157.chunk.css",
+    "main.js": "/fox-grinding/static/js/main.4aeaf56a.chunk.js",
+    "main.js.map": "/fox-grinding/static/js/main.4aeaf56a.chunk.js.map",
+    "runtime-main.js": "/fox-grinding/static/js/runtime-main.671754ac.js",
+    "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.671754ac.js.map",
+    "static/css/2.56490527.chunk.css": "/fox-grinding/static/css/2.56490527.chunk.css",
+    "static/js/2.166437d4.chunk.js": "/fox-grinding/static/js/2.166437d4.chunk.js",
+    "static/js/2.166437d4.chunk.js.map": "/fox-grinding/static/js/2.166437d4.chunk.js.map",
+    "static/js/3.3088a187.chunk.js": "/fox-grinding/static/js/3.3088a187.chunk.js",
+    "static/js/3.3088a187.chunk.js.map": "/fox-grinding/static/js/3.3088a187.chunk.js.map",
     "index.html": "/fox-grinding/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/fox-grinding/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f123934b.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.f123934b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/fox-grinding/static/media/logo.6ce24c58.svg"
+    "static/css/2.56490527.chunk.css.map": "/fox-grinding/static/css/2.56490527.chunk.css.map",
+    "static/css/main.59a8b157.chunk.css.map": "/fox-grinding/static/css/main.59a8b157.chunk.css.map",
+    "static/js/2.166437d4.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.166437d4.chunk.js.LICENSE.txt",
+    "static/media/Portrait.b270ac3c.jpg": "/fox-grinding/static/media/Portrait.b270ac3c.jpg",
+    "static/media/App.css": "/fox-grinding/static/media/background.60c1d2ae.jpeg",
+    "static/media/gk-games.a788eb1a.png": "/fox-grinding/static/media/gk-games.a788eb1a.png",
+    "static/media/gk-land.4763d4ad.png": "/fox-grinding/static/media/gk-land.4763d4ad.png",
+    "static/media/og-portfolio.c15d4e04.png": "/fox-grinding/static/media/og-portfolio.c15d4e04.png",
+    "static/media/up2u.d2a6b83c.png": "/fox-grinding/static/media/up2u.d2a6b83c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6376211.js",
-    "static/js/2.f123934b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c36807ed.chunk.js"
+    "static/js/runtime-main.671754ac.js",
+    "static/css/2.56490527.chunk.css",
+    "static/js/2.166437d4.chunk.js",
+    "static/css/main.59a8b157.chunk.css",
+    "static/js/main.4aeaf56a.chunk.js"
   ]
 }
