@@ -1,31 +1,34 @@
 {
   "files": {
-    "main.css": "/fox-grinding/static/css/main.59a8b157.chunk.css",
-    "main.js": "/fox-grinding/static/js/main.4aeaf56a.chunk.js",
-    "main.js.map": "/fox-grinding/static/js/main.4aeaf56a.chunk.js.map",
+    "main.css": "/fox-grinding/static/css/main.145487af.chunk.css",
+    "main.js": "/fox-grinding/static/js/main.3944f854.chunk.js",
+    "main.js.map": "/fox-grinding/static/js/main.3944f854.chunk.js.map",
     "runtime-main.js": "/fox-grinding/static/js/runtime-main.671754ac.js",
     "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.671754ac.js.map",
     "static/css/2.56490527.chunk.css": "/fox-grinding/static/css/2.56490527.chunk.css",
-    "static/js/2.166437d4.chunk.js": "/fox-grinding/static/js/2.166437d4.chunk.js",
-    "static/js/2.166437d4.chunk.js.map": "/fox-grinding/static/js/2.166437d4.chunk.js.map",
+    "static/js/2.69ab0a82.chunk.js": "/fox-grinding/static/js/2.69ab0a82.chunk.js",
+    "static/js/2.69ab0a82.chunk.js.map": "/fox-grinding/static/js/2.69ab0a82.chunk.js.map",
     "static/js/3.3088a187.chunk.js": "/fox-grinding/static/js/3.3088a187.chunk.js",
     "static/js/3.3088a187.chunk.js.map": "/fox-grinding/static/js/3.3088a187.chunk.js.map",
     "index.html": "/fox-grinding/index.html",
     "static/css/2.56490527.chunk.css.map": "/fox-grinding/static/css/2.56490527.chunk.css.map",
-    "static/css/main.59a8b157.chunk.css.map": "/fox-grinding/static/css/main.59a8b157.chunk.css.map",
-    "static/js/2.166437d4.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.166437d4.chunk.js.LICENSE.txt",
-    "static/media/Portrait.b270ac3c.jpg": "/fox-grinding/static/media/Portrait.b270ac3c.jpg",
-    "static/media/App.css": "/fox-grinding/static/media/background.60c1d2ae.jpeg",
-    "static/media/gk-games.a788eb1a.png": "/fox-grinding/static/media/gk-games.a788eb1a.png",
-    "static/media/gk-land.4763d4ad.png": "/fox-grinding/static/media/gk-land.4763d4ad.png",
-    "static/media/og-portfolio.c15d4e04.png": "/fox-grinding/static/media/og-portfolio.c15d4e04.png",
-    "static/media/up2u.d2a6b83c.png": "/fox-grinding/static/media/up2u.d2a6b83c.png"
+    "static/css/main.145487af.chunk.css.map": "/fox-grinding/static/css/main.145487af.chunk.css.map",
+    "static/js/2.69ab0a82.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.69ab0a82.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fox-grinding/static/media/background2.98b854ad.png",
+    "static/media/paint.71801054.jpg": "/fox-grinding/static/media/paint.71801054.jpg",
+    "static/media/paint_b4.664fbd74.jpg": "/fox-grinding/static/media/paint_b4.664fbd74.jpg",
+    "static/media/shed.9da361bb.jpg": "/fox-grinding/static/media/shed.9da361bb.jpg",
+    "static/media/shed_b4.748e0053.jpg": "/fox-grinding/static/media/shed_b4.748e0053.jpg",
+    "static/media/tile.a58d04ca.jpg": "/fox-grinding/static/media/tile.a58d04ca.jpg",
+    "static/media/tommy.ec9b9666.jpg": "/fox-grinding/static/media/tommy.ec9b9666.jpg",
+    "static/media/wash.3ab357f6.jpg": "/fox-grinding/static/media/wash.3ab357f6.jpg",
+    "static/media/wash_b4.162995db.jpg": "/fox-grinding/static/media/wash_b4.162995db.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.671754ac.js",
     "static/css/2.56490527.chunk.css",
-    "static/js/2.166437d4.chunk.js",
-    "static/css/main.59a8b157.chunk.css",
-    "static/js/main.4aeaf56a.chunk.js"
+    "static/js/2.69ab0a82.chunk.js",
+    "static/css/main.145487af.chunk.css",
+    "static/js/main.3944f854.chunk.js"
   ]
 }
