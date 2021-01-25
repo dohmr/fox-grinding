@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fox-grinding/static/css/main.b5c9bddb.chunk.css",
-    "main.js": "/fox-grinding/static/js/main.b259f6ae.chunk.js",
-    "main.js.map": "/fox-grinding/static/js/main.b259f6ae.chunk.js.map",
+    "main.css": "/fox-grinding/static/css/main.09640f2d.chunk.css",
+    "main.js": "/fox-grinding/static/js/main.78fbb714.chunk.js",
+    "main.js.map": "/fox-grinding/static/js/main.78fbb714.chunk.js.map",
     "runtime-main.js": "/fox-grinding/static/js/runtime-main.b46bb0c7.js",
     "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.b46bb0c7.js.map",
     "static/css/2.56490527.chunk.css": "/fox-grinding/static/css/2.56490527.chunk.css",
-    "static/js/2.70f0202c.chunk.js": "/fox-grinding/static/js/2.70f0202c.chunk.js",
-    "static/js/2.70f0202c.chunk.js.map": "/fox-grinding/static/js/2.70f0202c.chunk.js.map",
+    "static/js/2.7659d301.chunk.js": "/fox-grinding/static/js/2.7659d301.chunk.js",
+    "static/js/2.7659d301.chunk.js.map": "/fox-grinding/static/js/2.7659d301.chunk.js.map",
     "static/js/3.2e7a2676.chunk.js": "/fox-grinding/static/js/3.2e7a2676.chunk.js",
     "static/js/3.2e7a2676.chunk.js.map": "/fox-grinding/static/js/3.2e7a2676.chunk.js.map",
     "index.html": "/fox-grinding/index.html",
     "static/css/2.56490527.chunk.css.map": "/fox-grinding/static/css/2.56490527.chunk.css.map",
-    "static/css/main.b5c9bddb.chunk.css.map": "/fox-grinding/static/css/main.b5c9bddb.chunk.css.map",
-    "static/js/2.70f0202c.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.70f0202c.chunk.js.LICENSE.txt",
+    "static/css/main.09640f2d.chunk.css.map": "/fox-grinding/static/css/main.09640f2d.chunk.css.map",
+    "static/js/2.7659d301.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.7659d301.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fox-grinding/static/media/background2.98b854ad.png",
     "static/media/paint.71801054.jpg": "/fox-grinding/static/media/paint.71801054.jpg",
     "static/media/paint_b4.664fbd74.jpg": "/fox-grinding/static/media/paint_b4.664fbd74.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.b46bb0c7.js",
     "static/css/2.56490527.chunk.css",
-    "static/js/2.70f0202c.chunk.js",
-    "static/css/main.b5c9bddb.chunk.css",
-    "static/js/main.b259f6ae.chunk.js"
+    "static/js/2.7659d301.chunk.js",
+    "static/css/main.09640f2d.chunk.css",
+    "static/js/main.78fbb714.chunk.js"
   ]
 }
