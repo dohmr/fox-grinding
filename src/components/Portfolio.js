@@ -1,8 +1,4 @@
 import React from 'react';
-// import gkLand from "../images/gk-land.png";
-// import gkSearch from "../images/gk-games.png";
-// import ogPortfolio from "../images/og-portfolio.png";
-// import up2u from "../images/up2u.png";
 import shed from "../images2/shed.jpg";
 import shedb4 from "../images2/shed_b4.jpg";
 import wash from "../images2/wash.jpg";
@@ -21,11 +17,8 @@ function Portfolio() {
         const content = (
             <>
                 <img className="portfolio-image-pop" src={shed} alt="Game Kiwi App..." />
-                <p>Describe ...
-                The....
-                Application...
-        </p>
-                <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/Gerardo-S/bluetooth-coffee-cup")}>https://github.com/Gerardo-S/bluetooth-coffee-cup</a>
+                <p>A Stand-Alone shed</p>
+
             </>
         )
         PopupboxManager.open({ content });
@@ -33,7 +26,7 @@ function Portfolio() {
     const popupKiwiConfig = {
         titleBar: {
             enable: true,
-            text: "Game Kiwi Application."
+            text: "Finished project"
         },
         fadeIn: true,
         fadeInSpeed: 500
@@ -43,12 +36,8 @@ function Portfolio() {
         const content = (
             <>
                 <img className="portfolio-image-pop" src={wash} alt="Up2U Job Search App..." />
-                <p>Describe ...
-                The....
-                Application...
-        </p>
-                <b>MVP:</b> <a className="hyper-link" onClick={() => window.open("https://dohmr.github.io/up2U/", "_blank")}>https://dohmr.github.io/up2U/</a><br />
-                <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/dohmr/up2U")}>https://github.com/dohmr/up2U</a>
+                <p>Touch up and power-wash of a frontdoor molding.</p>
+
             </>
         )
         PopupboxManager.open({ content });
@@ -56,7 +45,7 @@ function Portfolio() {
     const popupJobConfig = {
         titleBar: {
             enable: true,
-            text: "Up2U Job Search Application."
+            text: "Finished project"
         },
         fadeIn: true,
         fadeInSpeed: 500
@@ -66,12 +55,9 @@ function Portfolio() {
         const content = (
             <>
                 <img className="portfolio-image-pop" src={paint} alt="HTML/CSS portfolio..." />
-                <p>Describe ...
-                The....
-                Application...
+                <p>Paint and Finish on a beautiful backyard deck.
             </p>
-                <b>MVP:</b> <a className="hyper-link" onClick={() => window.open("https://dohmr.github.io/Entry_Level/", "_blank")}>https://dohmr.github.io/Entry_Level/</a><br />
-                <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/dohmr/Entry_Level")}>https://github.com/dohmr/Entry_Level</a>
+
             </>
         )
         PopupboxManager.open({ content });
@@ -79,39 +65,36 @@ function Portfolio() {
     const popupOGConfig = {
         titleBar: {
             enable: true,
-            text: "."
+            text: "Finished project"
         },
         fadeIn: true,
         fadeInSpeed: 500
     };
-        //Portfolio POPUP
-        const openTileJob = () => {
-            const content = (
-                <>
-                    <img className="portfolio-image-pop" src={tile} alt="HTML/CSS portfolio..." />
-                    <p>Describe ...
-                    The....
-                    Application...
+    //Portfolio POPUP
+    const openTileJob = () => {
+        const content = (
+            <>
+                <img className="portfolio-image-pop" src={tile} alt="HTML/CSS portfolio..." />
+                <p>Custom tile work, and bathroom remodel.
                 </p>
-                    <b>MVP:</b> <a className="hyper-link" onClick={() => window.open("https://dohmr.github.io/Entry_Level/", "_blank")}>https://dohmr.github.io/Entry_Level/</a><br />
-                    <b>GitHub:</b> <a className="hyper-link" onClick={() => window.open("https://github.com/dohmr/Entry_Level")}>https://github.com/dohmr/Entry_Level</a>
-                </>
-            )
-            PopupboxManager.open({ content });
-        }
-        const popupTileConfig = {
-            titleBar: {
-                enable: true,
-                text: "."
-            },
-            fadeIn: true,
-            fadeInSpeed: 500
-        };
+
+            </>
+        )
+        PopupboxManager.open({ content });
+    }
+    const popupTileConfig = {
+        titleBar: {
+            enable: true,
+            text: "Finished project"
+        },
+        fadeIn: true,
+        fadeInSpeed: 500
+    };
 
     return (
         <div id="portfolio" className="portfolio-wrapper">
             <div className="container">
-                <h1 className="text-uppercase text-center py-5">Portfolio</h1>
+                <h1 className="text-uppercase text-center py-5">Projects</h1>
                 <div className="image-box-wrapper row justify-content-center">
                     <div className="portfolio-image-box" onClick={openPopKiwi}>
                         <img className="portfolio-image" src={shedb4} alt="Game Kiwi App..." />

@@ -44,10 +44,16 @@ nav ul li {
   height: 2.5rem !important;
 }
 
-@media (max-width: 768px) {
-  .navbar-brand {
-    width: 7rem;
-  }
+:root {
+  --primary-white: #fff;
+  --primamry-light-grey: #f4f4f4;
+  --primary-grey: #ccd1d9;
+  --primary-dark-grey: #666666;
+  --primary-orange: #f9ab00;
+  --primary-dark: #333333;
+  --primary-black: #000000;
+  --primary-red: #ef4035;
+  --primary-hover-red: #f33501;
 }
 
 .navbar-nav > li > a.active,
@@ -112,6 +118,7 @@ nav ul li {
 
 .p-block {
   background: var(--primamry-light-grey);
+  border-bottom: 1px solid var(--primary-orange);
 }
 
 /************* Header BTN ***************/
@@ -162,6 +169,10 @@ nav ul li {
 .about-heading {
   color: var(--primary-orange);
   text-transform: uppercase;
+}
+
+.p-block {
+  padding: .5rem;
 }
 
 @media (max-width: 468px) {

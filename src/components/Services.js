@@ -17,7 +17,10 @@ function Services() {
                         <div className="box">
                             <div className="circle" ><FontAwesomeIcon className="icon" icon={faHammer} size="2x" /></div>
                             <h3>Carpentry</h3>
-                            <p>I use my head as a hammer...</p>
+                            <p>Word work</p>
+                            <p>Refinishing</p>
+                            <p>Flooring</p>
+
                         </div>
                     </div>
 
@@ -25,7 +28,9 @@ function Services() {
                         <div className="box">
                             <div className="circle" ><FontAwesomeIcon className="icon" icon={faToilet} size="2x" /></div>
                             <h3>Plumbing work</h3>
-                            <p>I clog toilets with shit...</p>
+                            <p>Installations</p>
+                            <p>Water Damage Restoration</p>
+                            <p>Remodel</p>
                         </div>
                     </div>
 
@@ -33,7 +38,9 @@ function Services() {
                         <div className="box">
                             <div className="circle" ><FontAwesomeIcon className="icon" icon={faBrush} size="2x" /></div>
                             <h3>Painting</h3>
-                            <p>I paint with my fingers and shit...</p>
+                            <p>Interior</p>
+                            <p>Exterior</p>
+                            <p>Powerwash/Patch Jobs</p>
                         </div>
                     </div>
 
@@ -41,7 +48,9 @@ function Services() {
                         <div className="box">
                             <div className="circle" ><FontAwesomeIcon className="icon" icon={faGavel} size="2x" /></div>
                             <h3>Community</h3>
-                            <p>I have a close relationship with law-enforcement...</p>
+                            <p>Volunteer Work</p>
+                            <p>Volunteer Work</p>
+                            <p>Volunteer Work</p>
                         </div>
                     </div>
                 </div>
