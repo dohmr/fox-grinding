@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fox-grinding/static/css/main.bf829348.chunk.css",
-    "main.js": "/fox-grinding/static/js/main.c85f81f9.chunk.js",
-    "main.js.map": "/fox-grinding/static/js/main.c85f81f9.chunk.js.map",
+    "main.css": "/fox-grinding/static/css/main.dd190da3.chunk.css",
+    "main.js": "/fox-grinding/static/js/main.c7a5903c.chunk.js",
+    "main.js.map": "/fox-grinding/static/js/main.c7a5903c.chunk.js.map",
     "runtime-main.js": "/fox-grinding/static/js/runtime-main.b46bb0c7.js",
     "runtime-main.js.map": "/fox-grinding/static/js/runtime-main.b46bb0c7.js.map",
     "static/css/2.56490527.chunk.css": "/fox-grinding/static/css/2.56490527.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.2e7a2676.chunk.js.map": "/fox-grinding/static/js/3.2e7a2676.chunk.js.map",
     "index.html": "/fox-grinding/index.html",
     "static/css/2.56490527.chunk.css.map": "/fox-grinding/static/css/2.56490527.chunk.css.map",
-    "static/css/main.bf829348.chunk.css.map": "/fox-grinding/static/css/main.bf829348.chunk.css.map",
+    "static/css/main.dd190da3.chunk.css.map": "/fox-grinding/static/css/main.dd190da3.chunk.css.map",
     "static/js/2.7659d301.chunk.js.LICENSE.txt": "/fox-grinding/static/js/2.7659d301.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fox-grinding/static/media/background2.98b854ad.png",
     "static/media/paint.71801054.jpg": "/fox-grinding/static/media/paint.71801054.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.b46bb0c7.js",
     "static/css/2.56490527.chunk.css",
     "static/js/2.7659d301.chunk.js",
-    "static/css/main.bf829348.chunk.css",
-    "static/js/main.c85f81f9.chunk.js"
+    "static/css/main.dd190da3.chunk.css",
+    "static/js/main.c7a5903c.chunk.js"
   ]
 }
